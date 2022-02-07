@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://newuser:pwd1234@cluster0.cumuo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtsecret": "secret"
+}
